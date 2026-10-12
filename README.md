@@ -12,3 +12,5 @@ The data was cleaned and prepared before visualization in Excel.
 ## Dashboard Features
 The dashboard provides interactive visualization for:
 Top highest paying job roles,country-wise job analysis,Industry and Company Analysis.
+
+!["image"](image/dashboard.png)
